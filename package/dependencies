@@ -1,0 +1,32 @@
+# Comments start with a '#'.
+# Empty lines are ignored.
+
+#    = Kaytime OS Minimal System =
+
+adduser
+base-files
+console-setup
+e2fsprogs
+eject
+gawk
+iproute2
+iputils-ping
+isc-dhcp-client
+kbd
+kmod
+less
+libelf1
+linux-base
+lsb-release
+mount
+ntpdate
+passwd
+procps
+sensible-utils
+sudo
+tzdata
+udev
+util-linux
+xfsdump
+xfsprogs
+zsh
