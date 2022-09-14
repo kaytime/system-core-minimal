@@ -1,6 +1,8 @@
-# Nitrux Minimal Core Meta package
+# Kaytime Minimal Core Meta package
 
-This repository contains the source to create the `nitrux-minimal-legacy` metapackage.
+[![PackageCloud.](https://github.com/kaytime/system-core-minimal/actions/workflows/build.yml/badge.svg)](https://github.com/kaytime/system-core-minimal/actions/workflows/build.yml)
+
+This repository contains the source to create the `system-core-minimal` metapackage.
 
 # Issues
 
