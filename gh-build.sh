@@ -10,7 +10,7 @@ printf >configuration "%s\n" \
 	"Priority: optional" \
 	"Homepage: https://kaytime.github.io" \
 	"Package: system-core-minimal" \
-	"Version: $PROJECT_VERSION" \
+	"Version: 0.1.0+alpha" \
 	"Maintainer: Stephane Tsana <stephanetse@gmail.com>" \
 	"Depends: $deps" \
 	"Architecture: all" \
